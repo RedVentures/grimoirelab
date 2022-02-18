@@ -1,10 +1,42 @@
 {
-    "grimoirelab": {
-      "meta": {
-        "title": "GrimoireLab"
-      },
-      "git": [
-          "https://github.com/chaoss/grimoirelab.git"
-        ]
-    }
+  "My-Move": {
+    "meta": {
+      "title": "My Move"
+    },
+    "git": [
+      "https://github.com/RedVentures/ampersend-v3-events",
+      "https://github.com/RedVentures/acu-checkout-gng",
+      "https://github.com/RedVentures/acu-checkout-hughesnet",
+      "https://github.com/RedVentures/acu-rtm-gng",
+      "https://github.com/RedVentures/acu-rtm-hughesnet"
+    ],
+    "github:repo": [
+      "https://github.com/RedVentures/ampersend-v3-events",
+      "https://github.com/RedVentures/acu-checkout-gng",
+      "https://github.com/RedVentures/acu-checkout-hughesnet",
+      "https://github.com/RedVentures/acu-rtm-gng",
+      "https://github.com/RedVentures/acu-rtm-hughesnet"
+    ],
+    "github": [
+      "https://github.com/RedVentures/ampersend-v3-events",
+      "https://github.com/RedVentures/acu-checkout-gng",
+      "https://github.com/RedVentures/acu-checkout-hughesnet",
+      "https://github.com/RedVentures/acu-rtm-gng",
+      "https://github.com/RedVentures/acu-rtm-hughesnet"
+    ],
+    "github:pull": [
+      "https://github.com/RedVentures/ampersend-v3-events",
+      "https://github.com/RedVentures/acu-checkout-gng",
+      "https://github.com/RedVentures/acu-checkout-hughesnet",
+      "https://github.com/RedVentures/acu-rtm-gng",
+      "https://github.com/RedVentures/acu-rtm-hughesnet"
+    ],
+    "cocom": [
+      "https://github.com/RedVentures/ampersend-v3-events",
+      "https://github.com/RedVentures/acu-checkout-gng",
+      "https://github.com/RedVentures/acu-checkout-hughesnet",
+      "https://github.com/RedVentures/acu-rtm-gng",
+      "https://github.com/RedVentures/acu-rtm-hughesnet"
+    ]
   }
+}

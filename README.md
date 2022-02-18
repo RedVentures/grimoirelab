@@ -162,3 +162,4 @@ BibTeX / BibLaTeX:
 # Contributing
 
 Contributions are welcome, please check the [Contributing Guidelines](CONTRIBUTING.md).
+# GrimoireLab
